@@ -12,7 +12,7 @@ python examples/03_overcurrent_grading.py
 python examples/04_fault_levels.py
 python examples/05_sampled_values.py
 ```
-Follow [docs/curriculum.md](docs/curriculum.md) for the order and exercises.
+Follow [docs/curriculum.md](docs/curriculum.md) for the order and exercises, and keep [docs/glossary.md](docs/glossary.md) open for terminology (IEDs, LNs, GOOSE, SV, PRP, PTP, protection and fault terms).
 
 ## What's in the box
 | Module | Teaches |

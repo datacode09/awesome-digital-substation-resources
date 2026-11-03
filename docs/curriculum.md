@@ -1,6 +1,6 @@
 # Learning path
 
-Work in order; each step has a module in `src/dsub/`, an example in `examples/`, and tests in `tests/test_dsub.py` that you can read as worked answers.
+Keep the [glossary](glossary.md) open while you read. Work in order; each step has a module in `src/dsub/`, an example in `examples/`, and tests in `tests/test_dsub.py` that you can read as worked answers.
 
 | # | Topic | Read | Run | Key idea |
 |---|-------|------|-----|----------|
